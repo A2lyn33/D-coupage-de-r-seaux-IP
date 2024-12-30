@@ -36,7 +36,7 @@ Cette approche optimise l’utilisation des adresses en adaptant la taille des s
 | Informatique        | 172.16.1.0/26  | 172.16.1.0       | 172.16.1.63          | 172.16.1.1 à 172.16.1.62   |
 | Développement      | 172.16.1.64/28 | 172.16.1.64      | 172.16.1.79          | 172.16.1.65 à 172.16.1.78  |
 | Administratif       | 172.16.1.80/27 | 172.16.1.80      | 172.16.1.111         | 172.16.1.81 à 172.16.1.110 |
-| Technicien          | 172.16.1.112/28| 172.16.1.112     | 172.16.1.127         | 172.16.1.113 à 172.16.1.126|
+| Technicien          | 172.16.1.112/27 | 172.16.1.112     | 172.16.1.127         | 172.16.1.113 à 172.16.1.126|
 
 ### Conclusion Asymétrique
 Ce découpage répond aux besoins précis des pôles tout en maximisant l’utilisation des adresses IP disponibles.
